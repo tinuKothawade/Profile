@@ -1,0 +1,211 @@
+body {
+	margin:0px; padding:0px; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:normal; color:#CCCCCC; 
+}
+img {
+	border: 0px;
+}
+.clr {
+	clear: both;
+}
+
+.main {
+	width: 100%;
+}
+.wrapper {
+	width: 1200px;
+	margin: 0 auto;
+	background-color:grey;
+}
+.top-section {
+	color: grey;
+	height:100px;
+	line-height:100px;
+}
+.logo-name-desg-abt {
+	margin:auto;
+	font-style:italic;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+}
+.logo {
+	float: left;
+	width: 60px;
+	margin:20px 0px 0px 20px;
+}
+.name {
+	float:left;
+	width:172px;
+	margin-left:20px;
+	color:#FFFFFF;
+}
+.desg {
+	float:left;
+	width:auto;
+	margin-left:90px;
+	color:#FFFFFF;
+}
+.abt {
+	float:left;
+	width:auto;
+	margin-left:280px;
+	text-decoration:none;
+	background:url(../Images/P_Ins.jpg) no-repeat left;
+	background-size: 60px 60px;
+	padding-left:80px;
+}
+
+/* .wrapper {
+	width: 1200px;
+	margin: 0 auto;
+	background-color:grey;
+} */
+.middle-section {
+	background:grey url(../Images/BG.jpeg) left repeat;
+	height:450px;
+	}
+	
+.blog-quote-pname {
+	margin:auto;
+	padding:0;
+}	
+.blog {
+	float:left;
+	margin-left:40px;
+	margin-top:60px;
+}
+.quote {
+	float:left;
+	margin-top:60px;
+	margin-left:60px;
+}
+.quote h1 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#FF0000;
+	font-style:italic;
+}
+.quote ul {
+	float:right;
+	margin-right:50px;
+}
+.quote ul li {
+	list-style-type:disc;
+	font-style:italic;
+}
+.quote ul li a{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#FF0000;
+	font-style:italic;
+	font-size:18px;
+	text-decoration:none;
+	margin-bottom:10px;
+}
+.pname {
+	float:left;
+	margin-left:100px;
+	background-color:#FFFFFF;
+	text-align:center;
+	padding:10px 30px;
+}
+.pname h1 {
+	font-size:30px;
+	font-style:italic;
+}
+.pname h1 a {
+	text-decoration:none;
+}	
+.about-us {
+	float:left;
+	margin-top:none;
+	padding:0px;
+}
+.about-us h1 {
+	font-size:30px;
+	padding-left:30px;
+	padding-top:30px;
+}	
+.about-us h1 a {
+	text-decoration:none;
+}
+.about-us P {
+	font-size:18px;
+	padding:60px 350px 20px 200px;
+	padding-top:10px;
+	text-align:justify;
+}
+.about-us h3 {
+	font-size:18px;
+	padding:0px 380px 60px 240px;
+	text-align:justify;
+}
+.tech-skill {
+	float:left;
+	margin:0px;
+	padding:0px;
+}
+.tech-skill h1 {
+	font-size:30px;
+	text-align:center;
+	color:#000066;
+	font-style:italic;
+	padding-left:30px;
+}
+.tech-skill table {
+	font-size:18px;
+	float:left;
+	padding:10px 100px 50px 100px;
+	text-align:center;
+}
+.project {
+	text-align:center;
+	padding:10px 300px 10px 200px;
+}	 
+.project h1 {
+	font-size:30px;
+	font-style:italic;
+	color:#000066;
+}
+.project-graduate {
+	text-align:center;
+}
+.project-graduate h2 {
+	font-size:24px;
+	font-style:italic;
+	color:#FF0080;
+}
+.project-graduate h4 {
+	font-size:21px;
+	font-style:italic;
+	color:#000000;
+}
+.project-graduate p {
+	text-align:justify;
+	font-size:18px;
+}			
+.project-web {
+	margin:auto;
+	padding-top:20px;
+}
+.project-web h2 {
+	font-size:24px;
+	font-style:italic;
+	color:#FF0080;
+}	
+.project-web ul {
+	list-style-type:square;
+	font-size:18px;
+	text-align:justify;
+}	
+.photo {
+	padding-top:10px;
+	padding-left:30px;
+}
+.photo h1 {
+	font-size:32px;
+	font-style:italic;
+	text-align:center;
+	color:#000066;
+}
+.photo img {
+	padding:20px 0px 30px 40px;
+	border-style:dashed;
+	border:#FF0000;	
