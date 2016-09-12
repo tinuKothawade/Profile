@@ -1,5 +1,10 @@
 body {
-	margin:0px; padding:0px; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:normal; color:#CCCCCC; 
+	margin:0px; 
+	padding:0px; 
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:12px; 
+	line-height:normal; 
+	color:#CCCCCC; 
 }
 img {
 	border: 0px;
@@ -208,4 +213,5 @@ img {
 .photo img {
 	padding:20px 0px 30px 40px;
 	border-style:dashed;
-	border:#FF0000;	
+	color:#FF0000;
+}		
